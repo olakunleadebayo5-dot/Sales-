@@ -27,10 +27,10 @@ This project analyzes retail product data to evaluate sales performance, revenue
 
 ## 📈 Key Metrics (KPIs)
 
-Total Products: 20K
-Total Sales Volume: 22M units
-Total Revenue: $80bn
-Average Price: $4K
+* Total Products: 20K
+* Total Sales Volume: 22M units
+* Total Revenue: $80bn
+* Average Price: $4K
 
 ---
 
