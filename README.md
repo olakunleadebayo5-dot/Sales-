@@ -51,7 +51,7 @@ This project analyzes retail product data to evaluate sales performance, revenue
 
 ### 🔹 Promotion Impact
 
-* Promoted products show significantly higher sal
+* Promoted products show significantly higher sales
 
 ### 🔹 Seasonal Trends
 
@@ -99,8 +99,7 @@ Seasonality, promotions, and product category are the key drivers of sales perfo
 ## 🚀 How to Use
 
 1. Open the Power BI (.pbix) file
-2. Use slicers to filter by country, year, or disease
-3. Explore trends and relationships across visuals
+2. Use slicers to filter by Origin, Season, or Terms  etc
 
 ---
 
